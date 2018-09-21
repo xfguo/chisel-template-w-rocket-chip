@@ -1,0 +1,3 @@
+[submodule "lib/rocket-chip"]
+	path = lib/rocket-chip
+	url = https://github.com/freechipsproject/rocket-chip.git
